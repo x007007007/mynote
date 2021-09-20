@@ -3,21 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-笔记文档 documentation!
-======================
+========
+分类索引
+========
 
 .. toctree::
    :name: mastertoc
    :maxdepth: 2
-   :caption: 日常记录:
    :glob:
    :reversed:
 
-   knowledge/**/*
+   knowledge/*
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
