@@ -14,4 +14,5 @@
    :reversed:
 
    knowledge/*
+   blog/*
 
