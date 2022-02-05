@@ -2,7 +2,7 @@
 ======
 这是一本形而上的书，每一篇小短文都在陈述如今一些非常时髦的概念
 
-.. image:: //_static/fuxinvuwa.jpg
+.. image:: ./fuxinvuwa.jpg
   :width: 400
   :alt: 伏羲女娲
 
