@@ -16,3 +16,11 @@
    knowledge/*
    blog/*
 
+
+:abbr:`LIFO (last-in, first-out)`.
+:command:`cm`
+:file:`/hhh/jjj`
+ :kbd:`Control-x Control-f`
+:mailheader:`Content-Type`.
+:samp:`print 1+{variable}`
+ |today|
